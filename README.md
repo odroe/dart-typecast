@@ -1,2 +1,1 @@
-# prisma.pub
- 📖 The website https://prisma.pub 
+Typecast (or Type conversion) allows you to convert one data type to another data type in Dart. Implicit conversions are allowed at compile time or runtime (VM), and explicit conversions can also be made in the source code.
