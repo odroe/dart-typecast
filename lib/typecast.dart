@@ -1,8 +1,5 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
-library dart_typecast;
+/// Dart typecast (Type conversion) library.
+library typecase;
 
-export 'src/dart_typecast_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/bool_typecast.dart';
+export 'src/num_typecast.dart';
