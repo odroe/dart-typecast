@@ -5,7 +5,7 @@ version: 0.0.0
 repository: https://github.com/odroe/dart-typecast
 
 environment:
-  sdk: '<4.0.0'
+  sdk: '^3.8.0'
 
 # dependencies:
 #   path: ^1.8.0
